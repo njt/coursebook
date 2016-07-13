@@ -61,7 +61,7 @@ Participants will match each of the Agile Manifesto's 12 principles with one of 
 
 ## Part 5: Make the Poster (20 min)
 
-- Represent the manifesto in poster form however you think fits
+- Represent the manifesto in poster form however you think fit
 - Everybody sign the poster
 - Display in a prominent place
 
@@ -73,6 +73,3 @@ Participants will match each of the Agile Manifesto's 12 principles with one of 
 - Print the values on a different colour of paper from the principles.
 - Teams may pursue the "right" answer, or try to divide the principles evenly between the values. Let them!
 - The aim of the game is conversation and discussion, so pose questions to teams to encourage this.
-
-
-
